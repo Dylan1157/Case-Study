@@ -69,3 +69,22 @@ Societal view: arcades worked as real hangouts where teens gathered in person. B
 The ethical issues - like designs that hook users, brutal work schedules, growing gaps in internet access, or the carbon toll from streaming servers - are baked into a system focused more on clicks than people’s health. Fixes being tested include required transparency for loot boxes, shared reports on employee hours across studios, joint efforts to widen high-speed internet reach, also shifting cloud networks entirely to green energy - all practical steps already underway, showing companies can make money without cutting corners. 
 
 Sooner or later, past gaming systems show something key about business tech ahead: new tools grow faster than our sense of right use - unless we make ethics part of the start. Being in charge now, those learning tech today get a shot - not just to create games, work apps, or whatever - but to shape things that are strong, fair, lasting, worth it, and actually help real people. 
+
+
+
+
+
+### References for Introduction & Conclusion
+## References
+
+Kent, S. L. (2001) *The Ultimate History of Video Games: From Pong to Pokémon and Beyond*. New York: Three Rivers Press.
+
+Newzoo (2025) *Global Games Market Report 2025*. Amsterdam: Newzoo. Available at: https://newzoo.com/resources/trend-reports/newzoo-global-games-market-report-2025-light-version (Accessed: 27 November 2025).
+
+Statista (2025) ‘Video games – worldwide’. Available at: https://www.statista.com/outlook/dmo/digital-media/video-games/worldwide (Accessed: 27 November 2025).
+
+Takahashi, D. (2024) ‘The evolution of gaming: From arcades to the cloud’, VentureBeat, 15 October. Available at: https://venturebeat.com/games/the-evolution-of-gaming-from-arcades-to-the-cloud/ (Accessed: 27 November 2025).
+
+World Health Organization (2019) ‘Addictive behaviours: Gaming disorder’. Available at: https://www.who.int/news-room/fact-sheets/detail/addictive-behaviours-gaming-disorder (Accessed: 27 November 2025).
+
+Xbox Wire (2024) ‘Xbox Game Pass surpasses 34 million subscribers’. Available at: https://news.xbox.com/en-us/2024/02/12/xbox-game-pass-34-million-subscribers/ (Accessed: 27 November 2025).
