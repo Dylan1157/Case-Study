@@ -79,12 +79,12 @@ Sooner or later, past gaming systems show something key about business tech ahea
 
 Kent, S. L. (2001) *The Ultimate History of Video Games: From Pong to Pokémon and Beyond*. New York: Three Rivers Press.
 
-Newzoo (2025) *Global Games Market Report 2025*. Amsterdam: Newzoo. Available at: https://newzoo.com/resources/trend-reports/newzoo-global-games-market-report-2025-light-version (Accessed: 27 November 2025).
+Newzoo (2025) *Global Games Market Report 2025*. Amsterdam: Newzoo. Available at: https://newzoo.com/resources/trend-reports/newzoo-global-games-market-report-2025-light-version .
 
-Statista (2025) ‘Video games – worldwide’. Available at: https://www.statista.com/outlook/dmo/digital-media/video-games/worldwide (Accessed: 27 November 2025).
+Statista (2025) ‘Video games – worldwide’. Available at: https://www.statista.com/outlook/dmo/digital-media/video-games/worldwide.
 
-Takahashi, D. (2024) ‘The evolution of gaming: From arcades to the cloud’, VentureBeat, 15 October. Available at: https://venturebeat.com/games/the-evolution-of-gaming-from-arcades-to-the-cloud/ (Accessed: 27 November 2025).
+Takahashi, D. (2024) ‘The evolution of gaming: From arcades to the cloud’, VentureBeat, 15 October. Available at: https://venturebeat.com/games/the-evolution-of-gaming-from-arcades-to-the-cloud/.
 
-World Health Organization (2019) ‘Addictive behaviours: Gaming disorder’. Available at: https://www.who.int/news-room/fact-sheets/detail/addictive-behaviours-gaming-disorder (Accessed: 27 November 2025).
+World Health Organization (2019) ‘Addictive behaviours: Gaming disorder’. Available at: https://www.who.int/news-room/fact-sheets/detail/addictive-behaviours-gaming-disorder 
 
-Xbox Wire (2024) ‘Xbox Game Pass surpasses 34 million subscribers’. Available at: https://news.xbox.com/en-us/2024/02/12/xbox-game-pass-34-million-subscribers/ (Accessed: 27 November 2025).
+Xbox Wire (2024) ‘Xbox Game Pass surpasses 34 million subscribers’. Available at: https://news.xbox.com/en-us/2024/02/12/xbox-game-pass-34-million-subscribers/ 
