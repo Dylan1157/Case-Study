@@ -25,4 +25,39 @@ The first arcade cabinet was created in 1971 by Nolan Bushnell and Ted Dabney, f
 
 ## This is done by Alex
 ### This is done by Bashit !
-### this is done by Owen!
+### Societal Viewpoint - Owen
+In the evolution pf gaming platforms, from early arcade machines and home consoles to Gaming pcs, mobile devices, Vr and cloud gaming, societys view on gaming has shifted greatly. What was once viewed as a niche hobby is now considered a mainstream cultural pillar. This evolution brings upon both beneficial societal impacts and important criticisms. 
+
+ 
+
+Positive Societal Impacts: 
+
+ 1. Increased Accessibility and Inclusivity 
+
+Modern platforms (mobile, cloud gaming) reduce economic barriers. Allowing more people to play without expensive hardware. Adaptive controllers and accessibility settings like subtitles, colorblind modes, difficulty adjustments, involves and empowers players with disabilities. Cross platform play allow for connectivity between players of different devices. These impacts allow gaming to become more universal and accessible for people of different circumstances, bringing together diverse groups. 
+
+2. Social Connection and Community building 
+
+Online multiplayer worlds and social platforms (in-game chats) help players form global friendships. Co-op games strengthen teamwork and communication skills. Esports communities create shared identities like traditional sports fandom. This can also bring together people to share different hobbies and interests. Gaming becomes a digital ‘social space’, especially valuable for the youth, marginalized groups and players seeking a place to belong. 
+
+3. Economic Growth and Employment 
+
+Evolution of gaming platforms generated entire industries such as esports, streaming, game development and more, resulting in economic growth and employment. Cloud gaming and mobile gaming create new business models that feed into the economy such as subscriptions services microtransactions and ads. Gaming is recognized as a legitimate economic engine and career path for many. 
+
+Negative Societal Impacts: 
+
+1. Screen time and Health concerns 
+
+Gaming can cause an increase in sedentary behaviour which can contribute to physical issues like eye-strain, posture problems and more. Excessive play can also disrupt sleep and normal daily patterns and routines. And also, concerns about potential addictive behaviour, especially among the youth, can persist. Fear of overuse leads to public debates about physical wellbeing. 
+
+2. Toxicity, Harrassment and Online safety 
+
+The evolution of gaming platforms can expose players to cyberbullying, hate-speech, and harrassment. This proves to be harmful to the younger players. Younger players can be vulnerable to scams, Predators, or inappropriate content or behaviour. Competitive environments can also encourage negative behaviour. Gaming culture faces scrutiny around safety, moderation and accountability. 
+
+3. Digital divide 
+
+ Although gaming is more accessible, high-end platforms or devices remain expensive, and the high gap in quality tend to be irritating for players. Gaming nowadays require reliable broadband, limiting access in rural or low-income areas. Inequality in access to advanced digital experiences is greater now than it was before. 
+
+ 
+
+The Societal viewpoint on gaming has transformed dramatically. It changed form a stigmatized hobby to a major cultural, economic and social force. While ite evolution brings greater community, creativity etc. It also raises concerns about health, safety and commercial practices. Society now sees gaming as both a powerful tool and a cultural positivity. 
