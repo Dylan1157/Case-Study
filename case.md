@@ -1,4 +1,4 @@
-## title
+## Title
 Nature of Enterprise Case Study
 Evolution of gaming platforms (Arcade to Console to Cloud Gaming)
 ## Introduction (by Bashit)
@@ -99,11 +99,7 @@ Sooner or later, past gaming systems show something key about business tech ahea
 
 ### References for Introduction & Conclusion
 ## References
-Timeline  
-https://en.wikipedia.org/wiki/History_of_arcade_video_games 
-
-https://en.wikipedia.org/wiki/History_of_video_games 
-
+ 
 Kent, S. L. (2001) *The Ultimate History of Video Games: From Pong to Pokémon and Beyond*. New York: Three Rivers Press.
 
 Newzoo (2025) *Global Games Market Report 2025*. Amsterdam: Newzoo. Available at: https://newzoo.com/resources/trend-reports/newzoo-global-games-market-report-2025-light-version .
@@ -115,3 +111,12 @@ Takahashi, D. (2024) ‘The evolution of gaming: From arcades to the cloud’, V
 World Health Organization (2019) ‘Addictive behaviours: Gaming disorder’. Available at: https://www.who.int/news-room/fact-sheets/detail/addictive-behaviours-gaming-disorder 
 
 Xbox Wire (2024) ‘Xbox Game Pass surpasses 34 million subscribers’. Available at: https://news.xbox.com/en-us/2024/02/12/xbox-game-pass-34-million-subscribers/ 
+
+## References for Timeline
+https://en.wikipedia.org/wiki/History_of_arcade_video_games 
+
+https://en.wikipedia.org/wiki/History_of_video_games
+
+https://www.museumofplay.org/games/computer-space/
+
+https://www.asurion.com/connect/tech-tips/what-is-cloud-gaming/
