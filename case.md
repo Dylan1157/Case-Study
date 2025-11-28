@@ -15,12 +15,35 @@ Finally, we take a hard look at the ethical issues tied to this progress. The di
 This evolution matters a lot. It echoes the wider move in business computing from owning costly gear to using flexible cloud subscriptions. Entertainment setups like these can overhaul company practices. At the same time, they tweak daily social habits in everyday life. 
 
  
-## Timeline
+## Timeline (Dylan)
 1950s - 1960s 
 With the computer industry on the rise due to the development of the first digital computer screen in 1947, the idea that computers can be used for the purpose of entertainment could become a reality. In 1958 American physicist Willam Higinbotham sets out to work on the first video game developed for entertainment called “Tenis for Two” and finishes his work in October of the same year. The game was developed for the Oscilloscope, a device that uses electricity to display frequency and form an image. The game was very simple and only featured and single vertical line to represent the net, and a ball that would fly back and forth with an input. This game was very influential on a group of programmers, so influential that it inspired the development of “Spacewars” in 1962. 
 
 1971 
-The first arcade cabinet was created in 1971 by Nolan Bushnell and Ted Dabney, founders of Atari and creators of Pong. The game was called “Computer Space”. It was a very simple game set in space where you play as a little spaceship that flew around dodging projectiles and fighting UFOs. With the end of the space race, the theme of outer space was extremely popular and profitable. This led to the game having great success with the populous. Nolan had specifically asked for the arcade cabinet to be bright yellow and an odd shape to catch the eye of people walking past it and to draw them in. 
+The first arcade cabinet was created in 1971 by Nolan Bushnell and Ted Dabney, founders of Atari and creators of Pong. The game was called “Computer Space”. It was a very simple game set in space where you play as a little spaceship that flew around dodging projectiles and fighting UFOs. With the end of the space race, the theme of outer space was extremely popular and profitable. This led to the game having great success with the populous. Nolan had specifically asked for the arcade cabinet to be bright yellow and an odd shape to catch the eye of people walking past it and to draw them in.
+
+1972 
+A year after the release of ”Computer Space” the creators went on to make a very influential game based on the sports table tennis this game eventually became known as pong. shortly after the release of pong Magnavox would release the first ever attempt at a home console titled the Odyssey. The Odyssey was a small brown and white box that plugged right into a TV it had two small controllers to be used to play the games. The Odyssey also came with a few game cards what was originally known as “pong” had been re-engineered into “table tennis”. The Odyssey was a huge success and inspired many other companies to attempt in making their own home video game console. 
+
+ 
+
+1977 
+After the success of the Odyssey Atari thought they would try their hands many years later at their own video game console after many years in development the Atari 2600 was released. This console made many leaps forward from The Odyssey it was sleeker and smaller but only came with one controller this was not an issue however because the Atari sported only single player games. Some such games are industry definers such as “Space Invaders” a small game where you play as a tank shooting up into the sky at alien spaceships coming down, and “Adventure” the first ever “open world” video game based around dungeon crawling. It also featured the first gaming “easter egg” in the form of the developer's name appearing after some secret steps were taken 
+
+ 
+
+1983 
+Jumping ahead a few years to 1983 an at the time board game and card development studio would try their first hand at making a home video game console this would eventually turn into the Nintendo Entertainment System or the NES. This device was a wonder it had better graphics than most at the time and started some legendary video game franchises super as Mario, Donkey Kong, The legend of Zelda and Metroid. Nintendo wanted to push the limits of what video games could be at the time they wanted to tell more story focused games, with Nintendo games had gone from imitations of real life or simple minigames that you would pick up once and play and then put back down to having full stories that would be followed the Legend of Zelda in particular truly pushed the limits by being the first game that allowed you to save your progress and come back and continue playing later. 
+
+ 
+
+1994 
+Nintendo would rule the video game console industry for over 10 years until a Japanese company known as Sony would redefine gaming as anyone knew it at the time. With the release of the PlayStation gaming had taken its first steps into the third dimension. Gone with the days of using 2D sprites to define the characters in Worlds now 3D models were the new technology being used to push games even further than before stand out games such as Final Fantasy 7 were industry shakers at the time showing people that games didn't just have to be for children they could have deep enriching stories that would catch even the eyes of grown-ups.  
+
+ 
+
+2003-2019 
+As the years went by and games got better and better something else was also a parent games were going to continue to get more taxing on the hardware that was required to run them and also physical versions of games were going to get more expensive to create. Up until this point the only way games had been distributed was by cartridge disc or digital means. However in 2003 a handful of game provider Studios wanted to attempt something that had never been done before they wanted to create a way that games could be played with out the need of a physical disk or download. These companies were game cluster and Infinium Labs. Instead of buying physical disks or purchasing the download 2 again these companies wanted users to be able to run their games on demand via a monthly subscription service this form of gaming wouldn't truly hit its own stride until 2019 where Sony and Microsoft made a partnership deal to create a reliable cloud gaming service these services would become known as PlayStation Plus an Xbox Live respectively. These two forms of cloud gaming are some of the only few that are still running to this day most other companies ideas for Cloud gaming fell off quickly as their company servers could not manage so many users trying to run the games at the same time thus leading to the inevitable shutdown of their attempts. While these companies continue to make physical game discs and downloads for a much higher price Xbox in particular are aiming to filter these out entirely in favour of a purely cloud-based gaming network however they are yet to follow up on this promise. 
 
 ### Societal Viewpoint - Owen
 In the evolution pf gaming platforms, from early arcade machines and home consoles to Gaming pcs, mobile devices, Vr and cloud gaming, societys view on gaming has shifted greatly. What was once viewed as a niche hobby is now considered a mainstream cultural pillar. This evolution brings upon both beneficial societal impacts and important criticisms. 
@@ -76,6 +99,10 @@ Sooner or later, past gaming systems show something key about business tech ahea
 
 ### References for Introduction & Conclusion
 ## References
+Timeline  
+https://en.wikipedia.org/wiki/History_of_arcade_video_games 
+
+https://en.wikipedia.org/wiki/History_of_video_games 
 
 Kent, S. L. (2001) *The Ultimate History of Video Games: From Pong to Pokémon and Beyond*. New York: Three Rivers Press.
 
